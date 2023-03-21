@@ -79,3 +79,8 @@ noTone(buzzer);
 
 }
 }
+
+# Conclusão
+
+Concluimos que o projeto tem grande aproveitamento para o mercado devido o seu baixo custo e a facilidade na montagem e elaboração da tarefa apresentada, onde uma pessoa que desconheça sobre liguagem de programação pode estar desenvolvendo seu proprio alarme seguindo o passo a passo e a programação deixada acima!
+
